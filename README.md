@@ -1,5 +1,5 @@
-
-=== Concurrent Cache ===
+Concurrent Cache
+================
 
 A simple exercise in building a concurrent cache using go and channels.
 
